@@ -166,6 +166,7 @@ Setelah dihapus, tidak ada data yang tersimpan.
 Program selesai dijalankan.
 
 ## FLOWCHART
+```mermaid
 flowchart TD
     A([Start]) --> B[/User Input/]
     B -->|'T'| C[/Tambah Data/]
@@ -204,5 +205,5 @@ flowchart TD
     W --> B
     
     G --> X([Selesai])
-
+```
 
